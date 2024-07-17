@@ -7,11 +7,8 @@
 4. [Technical Stack](#technical-stack)
 5. [Requirements](#requirements)
 6. [Installation and Setup](#installation-and-setup)
-7. [Usage](#usage)
-8. [Project Structure](#project-structure)
-9. [Contributing](#contributing)
-10. [Acknowledgements](#acknowledgements)
-11. [License](#license)
+7. [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 FaceCheck is an advanced attendance tracking system that uses facial recognition technology to automatically record attendance. This project is designed to offer a quick, reliable, and error-free method of tracking attendance, eliminating the need for manual processes. Developed in collaboration with teammates Thakur Meghana and Satvika Devara, FaceCheck is ideal for use in educational institutions, workplaces, and other settings where attendance tracking is essential.
@@ -86,9 +83,3 @@ Special thanks to my teammates Thakur Meghana and Satvika Devara for their essen
 
 FaceCheck is a major leap forward in attendance tracking technology. This project has provided us with practical experience and a deeper understanding of facial recognition applications. We are excited to continue improving the system and exploring new features to enhance its efficiency and reliability.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust any details to better fit your specific project and context.
